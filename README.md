@@ -6,8 +6,6 @@
 <div>
    <a href="https://www.linkedin.com/in/irvin-gonz%C3%A1lez-8335b9242" > <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" title="Linkedin"  alt="centered image" width="40" height="40"/>&nbsp;
    </a>
-   <a href="https://boxd.it/3saYT"> <img src="https://camo.githubusercontent.com/8e0d352911730ab5892f17718f3b09ea0361da891c6e09f3a3d85bb0a725b2fa/68747470733a2f2f612e6c74726278642e636f6d2f6c6f676f732f6c6574746572626f78642d646563616c2d646f74732d706f732d7267622d35303070782e706e67" title="Letterbox"  alt="centered image" width="40" height="40"/>&nbsp;
-   </a>
 </div>
 
 ---
@@ -26,6 +24,26 @@
    <a href="https://www.haskell.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" **alt="Haskell" width="40" height="40"/>&nbsp;
    </a> 
 </div>
+
+<code>
+# Esto es un diccionario en Python
+acerca_de_mi = {
+  gatos: True,
+  perros: True,
+  country: "Mexican",
+  age: 20++,
+  city: "Mexico City", 
+  main_languages: [
+    "Python", "Java", "JavaScript", "PHP"
+  ],
+  secondary_languages: [
+     "SQL", "HTML", "CSS", "C & C++"
+  ]
+}
+</code>
+
+
+
 
 
 
